@@ -45,3 +45,9 @@ next-env.d.ts
 *.log
 .DS_Store
 
+
+# IDE / tooling
+.idea/
+.vscode/
+.claude/
+!.env.example
